@@ -1,0 +1,13 @@
+  
+{
+  "spec_dir": "tasks",
+  "spec_files": [
+    "**/*.js"
+  ],
+  "helpers": [
+    "helpers/babel.js",
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
