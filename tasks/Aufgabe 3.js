@@ -8,7 +8,7 @@ class Button extends Component {
         this.state = {}
     }
 
-    onDownload () {
+    handleButtonClick () {
 
     }
 
