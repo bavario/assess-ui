@@ -1,5 +1,5 @@
-import React, {Component} from "react";
-import {shallow} from 'enzyme';
+import React, { Component } from "react";
+import { shallow } from 'enzyme';
 
 class Button extends Component {
 
