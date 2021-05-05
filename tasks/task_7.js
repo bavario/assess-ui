@@ -2,6 +2,8 @@ function keysAndValues(object) {
 
 }
 
+// ------------------------------------------------------------------------------------
+
 describe('Task 7', () => {
     it("should return empty array", function () {
         expect(keysAndValues({}).toBe([]));
