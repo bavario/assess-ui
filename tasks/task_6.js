@@ -5,15 +5,15 @@ function likes(names) {
 // ------------------------------------------------------------------------------------
 
 describe('Task 6', () => {
-    it('empty', () => {
+    it('empty', function () {
         expect(likes([])).toBe('no one likes this');
     });
 
-    it('single', () => {
+    it('single', function () {
         expect(likes(['Peter'])).toBe('Peter likes this');
     });
 
-    it('multiple', () => {
+    it('multiple', function () {
         expect(likes(['Jacob', 'Alex'])).toBe('Jacob and Alex like this');
     });
 
