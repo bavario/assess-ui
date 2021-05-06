@@ -8,5 +8,5 @@ Build an react application with following features:
 4. Implement some enzyme shallow tests to proof functionality
 --------------------------------------------------------------
 5. Entries should be stored and rerendered if the user refreshes the page
-6. Prepare reading entries from a server
-7. Prepare sedning entries to a server
+6. Prepare reading entries from a server on application start
+7. Prepare sending entries to a server
